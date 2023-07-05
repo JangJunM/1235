@@ -1,6 +1,6 @@
 @import url('https://fonts.googleapis.com/css2?family=Nanum+Gothic:wght@800&display=swap');
 
-/* rese : 전체선택자로 리셋하면 몽땅 다 적용된다.
+/* reset : 전체선택자로 리셋하면 몽땅 다 적용된다.
    구체적인 리셋해야 한다 -> reset.css를 골라 cdn으로 땡겨서 사용한다
 */
 header * {
